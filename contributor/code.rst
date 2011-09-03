@@ -24,9 +24,9 @@ Please read the http://help.github.com/set-up-git-redirect document.
 Fork Repository
 ===============
 
-Societo is constructed from some family bundles. Societo installs them by executing `bin/vendors script <https://github.com/societo/societo/blob/master/bin/vendors>` (this is an official way to install depended somethings in Symfony2 Standard Edition).
+Societo is constructed from some family bundles. Societo installs them by executing `bin/vendors script <https://github.com/societo/societo/blob/master/bin/vendors>`_ (this is an official way to install depended somethings in Symfony2 Standard Edition).
 
-So, forking Societo doesn't make sense in the almost situation. You just need to install `Societo from official repository <https://github.com/societo/societo>`. Installation guide (via Git) is available in http://societo.org/documentation/general/install/git.html
+So, forking Societo doesn't make sense in the almost situation. You just need to install `Societo from official repository <https://github.com/societo/societo>`_. Installation guide (via Git) is available in http://societo.org/documentation/general/install/git.html
 
 Next, you need to choose the bundles which you want to fix. Visit the repository page of target bundles and click on the "Fork" button.
 
@@ -42,7 +42,7 @@ And add the remote repository as upstream::
 Create the topic branch
 =======================
 
-Topic branch is a branch for a single working of a bug fix or feature. `ProGit <http://progit.org/>` has good `article about topic branch <http://progit.org/book/ch3-4.html#topic_branches>`.
+Topic branch is a branch for a single working of a bug fix or feature. `ProGit <http://progit.org/>`_ has good `article about topic branch <http://progit.org/book/ch3-4.html#topic_branches>`_.
 
 If you want to fix a bug which is registered as "Issue 1" on the issue tracker, create a new topic branch like the following::
 
@@ -61,7 +61,7 @@ Write your code
 
 There are few rules that you should to keep when writing your code:
 
-* Make sure to follow coding standards. Currently, Societo follows `Coding Standards of Symfony2 <http://symfony.com/doc/current/contributing/code/standards.html>`. But, of cource, Societo is released under the EPL/GPL/LGPL triple license, so you must follow it not MIT license.
+* Make sure to follow coding standards. Currently, Societo follows `Coding Standards of Symfony2 <http://symfony.com/doc/current/contributing/code/standards.html>`_. But, of cource, Societo is released under the EPL/GPL/LGPL triple license, so you must follow it not MIT license.
 * Writing tests are recommended.
 * Separete commits properly.
 * Write good commit message.
@@ -75,7 +75,7 @@ After maintain your changes, please push them by the following::
 
 And tell us about your changes via pull request in GitHub repository page.
 
-Please read `Send pull requests <http://help.github.com/send-pull-requests/>` for understanding about how to send pull request.
+Please read `Send pull requests <http://help.github.com/send-pull-requests/>`_ for understanding about how to send pull request.
 
 Review
 ======

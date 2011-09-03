@@ -25,14 +25,14 @@ And some contributors have own blog. There may be entries about Societo developm
 Repository
 ----------
 
-Societo and its family bundles are hosted on `GitHub <http://github.com/>`.
+Societo and its family bundles are hosted on `GitHub <http://github.com/>`_.
 
 http://github.com/societo is a good page to follow source code updates.
 
 Issue Tracker
 -------------
 
-Societo also uses `GitHub <http://github.com/>` as Issue Tracker.
+Societo also uses `GitHub <http://github.com/>`_ as Issue Tracker.
 
 You can get information about status of known issues in the tracker.
 
