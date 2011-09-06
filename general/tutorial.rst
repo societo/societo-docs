@@ -29,7 +29,7 @@ Access to root of your site (means index.php with no parameters) to feel about a
 
 You will see the following blank page which is created by the Societo Installer.
 
-.. image:: /images/tutorial_blank_page.*
+.. image:: /images/tutorial_blank_page.png
     :width: 320px
     :target: ../_images/tutorial_blank_page.png
 
@@ -42,13 +42,13 @@ You can do "putting the pieces" is from "Page" feature in backend.
 
 You may be already in backend. If not, click "Admin" link in page footer.
 
-.. image:: /images/tutorial_point_to_admin_link.*
+.. image:: /images/tutorial_point_to_admin_link.png
     :width: 320px
     :target: ../_images/tutorial_point_to_admin_link.png
 
 Click "All Pages" of the side banner in backend and you can see a page list which shows two pages.
 
-.. image:: /images/tutorial_point_to_page_link.*
+.. image:: /images/tutorial_point_to_page_link.png
     :width: 320px
     :target: ../_images/tutorial_point_to_page_link.png
 
@@ -63,7 +63,7 @@ insecure_default? Actually, it is a login page. Yes, installer creates login pag
 
 Well, look into insecure_default. Click "insecure_default" of the menu and display the following page.
 
-.. image:: /images/tutorial_insecure_default.*
+.. image:: /images/tutorial_insecure_default.png
     :width: 320px
     :target: ../_images/tutorial_insecure_default.png
 
@@ -73,7 +73,7 @@ Societo calls these box "Page Gadget".
 
 Next, look into secure_default...
 
-.. image:: /images/tutorial_secure_default.*
+.. image:: /images/tutorial_secure_default.png
     :width: 320px
     :target: ../_images/tutorial_secure_default.png
 
@@ -81,19 +81,19 @@ You can see the plot area doesn't have any gadget. This means a blank page.
 
 Do you notice plot area has gray-colored few sub area. Drag-and-drop a gadget from list of gadgets to the sub area, you can get gadget configuration dialog. For example, in case of free area gadget (which is provided by SocietoFreeAreaPlugin), a form to input any HTML like the following:
 
-.. image:: /images/tutorial_gadget_config.*
+.. image:: /images/tutorial_gadget_config.png
     :width: 320px
     :target: ../_images/tutorial_gadget_config.png
 
 Input mandatory item, enter, and the gadget is put to the plot area.
 
-.. image:: /images/tutorial_ploted_gadget.*
+.. image:: /images/tutorial_ploted_gadget.png
     :width: 320px
     :target: ../_images/tutorial_ploted_gadget.png
 
 OK, access the user page and confirm results.
 
-.. image:: /images/tutorial_confirm_ploted_page.*
+.. image:: /images/tutorial_confirm_ploted_page.png
     :width: 320px
     :target: ../_images/tutorial_confirm_ploted_page.png
 
@@ -108,7 +108,7 @@ Don't worry. Societo provides a way to skip this trouble. It is "Recipe" feature
 
 First, click "Recipe" from the side menu.
 
-.. image:: /images/tutorial_point_to_recipe_link.*
+.. image:: /images/tutorial_point_to_recipe_link.png
     :width: 320px
     :target: ../_images/tutorial_point_to_recipe_link.png
 
@@ -116,7 +116,7 @@ There are forms and two button. I think this interface is not good so I will fix
 
 Well, input "http://recipe.societo.org/example.xml" to "Input recipe URL" field and submit.
 
-.. image:: /images/tutorial_recipe_results.*
+.. image:: /images/tutorial_recipe_results.png
     :width: 320px
     :target: ../_images/tutorial_recipe_results.png
 
@@ -124,13 +124,13 @@ Your inputted is URL to a recipe which is prepared by Societo. Societo read this
 
 Please read a content of this recipe and click button. Then ...
 
-.. image:: /images/tutorial_recipe_eat_up.*
+.. image:: /images/tutorial_recipe_eat_up.png
     :width: 320px
     :target: ../_images/tutorial_recipe_eat_up.png
 
 This page is appeared. Don't you know what's happend? OK, please display a list of pages once again.
 
-.. image:: /images/tutorial_cooked_page.*
+.. image:: /images/tutorial_cooked_page.png
     :width: 320px
     :target: ../_images/tutorial_cooked_page.png
 
@@ -138,7 +138,7 @@ Something was increased! Yes, these are pages which Societo "cooked" automatical
 
 Look into secure_default page.
 
-.. image:: /images/tutorial_cooked_secure_default.*
+.. image:: /images/tutorial_cooked_secure_default.png
     :width: 320px
     :target: ../_images/tutorial_cooked_secure_default.png
 
